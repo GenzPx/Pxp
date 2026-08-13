@@ -1,0 +1,7 @@
+{
+  "app_name": "Pxp Toolkit",
+  "version": "1.0.1",
+  "author": "GenzPX",
+  "description": "Multi-module CLI toolkit (educational / authorized testing only).",
+  "report_dir": "reports"
+}
